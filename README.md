@@ -1,7 +1,8 @@
 
+
 #使用方法
 
-> $ npm install 
+> $ npm install rsapw 
 
 代码使用
 
