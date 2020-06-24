@@ -1,6 +1,6 @@
 {
   "name": "rsapw",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "> $ npm install rsapw",
   "main": "index.js",
   "scripts": {
